@@ -1,1 +1,1 @@
-# NTHU_CS542200_ParallelProgramming_HW2_MandelbrotSet
+# NTHU_CS_542200_ParallelProgramming_HW2_MandelbrotSet
